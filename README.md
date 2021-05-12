@@ -1,0 +1,2 @@
+# SimpleApi
+My Azure project
